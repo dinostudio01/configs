@@ -5,6 +5,7 @@
       "unity"
     ],
     "admob_time":40,
+    "show_banner":true,
     "ad_time": 30,
     "ad_model": [
       {
