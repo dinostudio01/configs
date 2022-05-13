@@ -58,7 +58,7 @@
     ]
   },
   "shopping_config": {
-    "shop_url":"https://google.com",
+    "shop_url":"",
     "shopping": [
       {
         "data_file_url": "",
